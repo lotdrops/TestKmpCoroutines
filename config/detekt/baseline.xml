@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<SmellBaseline>
+  <ManuallySuppressedIssues>
+    <ID>MatchingDeclarationName:Exhaustive.kt$Do</ID>
+    <ID>RethrowCaughtException:MyResult.kt$throw e</ID>
+    <ID>TooGenericExceptionCaught:MyResult.kt$e: Throwable</ID>
+    <ID>MagicNumber:Color.kt</ID>
+  </ManuallySuppressedIssues>
+  <CurrentIssues>
+    <ID>UnusedPrivateMember:RootNavigation.kt$private fun NavDestination.getRootGraph(): NavGraph?</ID>
+    <ID>UnusedPrivateMember:RootNavigation.kt$private fun navToTopDestination( path: String, navController: NavController, )</ID>
+  </CurrentIssues>
+</SmellBaseline>
